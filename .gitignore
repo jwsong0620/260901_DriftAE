@@ -1,0 +1,10 @@
+.ipynb_checkpoints/
+__pycache__/
+*.py[cod]
+.venv/
+.env
+dist/
+_output/
+*.doit.db*
+.DS_Store
+Thumbs.db
